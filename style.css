@@ -1,0 +1,9 @@
+.inputField {
+    border: 1px solid black;
+    height: 1px;
+    padding-left: 10px;
+  }
+
+.token {
+color: blue;
+}
